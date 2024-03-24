@@ -1,8 +1,8 @@
 # Aspiring Data Scientist
 
 ## Education
-- PG Diploma in Applied Statistics, Data Analytics \| ISI Kolkata (August 2024)
-- Integrated BS-MS \| IISER Pune (May 2023)
+- Post-Graduate Diploma in Applied Statistics, Data Analytics \| Indian Statistical Institute Kolkata, India (August 2024)
+- Bachelor of Science & Master of Science \| Indian Institute of Science Education and Research Pune, India (May 2023)
 
 ## Projects
 ### Master's Thesis
