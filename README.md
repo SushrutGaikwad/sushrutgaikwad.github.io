@@ -1,6 +1,7 @@
 # Aspiring Data Scientist
 
 ## Education
+- Master of Science in Data Science \| University at Buffalo, New York, USA (Present)
 - Post-Graduate Diploma in Applied Statistics, Data Analytics \| Indian Statistical Institute Kolkata, India (August 2024)
 - Bachelor of Science & Master of Science \| Indian Institute of Science Education and Research Pune, India (May 2023)
 
